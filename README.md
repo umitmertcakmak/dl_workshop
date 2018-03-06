@@ -1,7 +1,7 @@
-# Introduction to deep learning
-<img src="assets/img/wml_logo.png" alt="logo" style="max-width:30%;"/>
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# Introduction to deep learning
+<img src="/assets/img/wml_logo.png" alt="logo" style="max-width:30%;"/>
 
 ### Scope
 1. A glimpse into vast landscape of deep learning
