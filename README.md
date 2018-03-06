@@ -1,5 +1,5 @@
 # Introduction to deep learning
-<img  src="https://medium.com/ibm-watson-data-lab/watson-machine-learning-for-developers-b98cefb3f890" alt="logo" style="max-width:30%;"/>
+<img src="assets/img/wml_logo.png" alt="logo" style="max-width:30%;"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -16,10 +16,10 @@ cd dl_workshop
 docker build -t intro_to_dl .
 bash run.sh
 ```
-3. Navigate to `localhost:9000` on your browser and run test_nb.ipynb
+3. Navigate to `localhost:9000` on your browser and run test_nb.ipynb.
 
 ### Resources
 1. Materials are mostly from [deepschool.io](https://github.com/sachinruk/deepschool.io) and [colah](http://colah.github.io/), check out these resources for more comprehensive content.
 2. Please also have a look at references section in ppt.
 
-If you have any question, you know how to find me.
+If you have any questions, you know how to find me.
